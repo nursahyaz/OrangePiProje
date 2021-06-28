@@ -13,7 +13,7 @@ Bu projede MIT App İnvertor uygulaması kullanılarak bir Mobil Uygulama oluşt
 1 adet ampül 
 Yeteri kadar jumper (6-7 adet )
 
-Projede Orange pi kısmında ihtiyacınız olan kod kısmını buradan indirebilirsiniz. 
+Projede Orange pi kısmında ihtiyacınız olan kod kısmını buradan(mitbuton) indirebilirsiniz. 
 
 Projenin nasıl yapıldığını ve MIT App Invertor bölümünün Bağlantısını WİKİ bölümünde bulabilirisiniz.
 
